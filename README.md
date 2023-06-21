@@ -1,0 +1,1 @@
+## Directory to try and Simplify Installation of i3xrocks blocks for [i3xrocks](https://aur.archlinux.org/packages/i3xrocks)
